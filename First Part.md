@@ -1,9 +1,9 @@
 # The computer takes a long time to boot up
-- Will do some steps is helps to speed up the boot process: 
+## Will do some steps is helps to speed up the boot process: 
 
- 1. Enable fast start up feature by clicking on choose a power plan settings.
+1. Enable fast start up feature by clicking on choose a power plan settings.
 
- 1. Disable unnecessary startup Apps from task manger feature.
+1. Disable unnecessary startup Apps from task manger feature.
 
 1. Using check disk feature to repair or fix the hard drive.
 
