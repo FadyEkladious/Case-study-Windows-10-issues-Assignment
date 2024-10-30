@@ -4,7 +4,7 @@ Enable fast start up feature by clicking on choose a power plan settings.
 Disable unnecessary startup Apps from task manger feature.
 Using check disk feature to repair or fix the hard drive
 Act SFC scan
-Use clean boot feature 
+Use clean boot feature.
 you could visit this website for getting more information.
 https://www.guidingtech.com/top-ways-to-fix-slow-startup-times-on-windows-11/
 
